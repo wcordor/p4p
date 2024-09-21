@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\William\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\EPRCR1T8\\mysql-connector-java-8.0.26[1].jar",
+        "c:\\Users\\William\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A5EA55HB\\mysql-connector-java-8.0.26[1].jar",
+        "c:\\Users\\William\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\YT20IIQK\\mysql-connector-java-8.0.26[1].jar",
+        "c:\\Users\\William\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\3NDU7VWG\\mysql-connector-java-8.0.26[1].jar"
+    ]
+}
